@@ -1,0 +1,432 @@
+{
+  "restaurant": [
+    {
+      "id": 6,
+      "hotelName": "Vaa Bro",
+      "rating": "4",
+      "genre": "juice,snacks",
+      "type": "JUICES",
+      "food": "pineapple juice",
+      "cost": 200,
+      "resImage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/jqxlnlswe1vbbmc9mo9r"
+    },
+    {
+      "hotelName": "bhuva restaurant",
+      "type": "veg",
+      "genre": "veg",
+      "rating": "4",
+      "food": "Dosa",
+      "cost": 200,
+      "resImage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bkb5aev54lummmjgrpl5",
+      "id": 7
+    },
+    {
+      "hotelName": "Anjappar",
+      "type": "veg",
+      "genre": "veg",
+      "rating": "4",
+      "food": "Podi dosa",
+      "cost": 200,
+      "resImage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/tz6zh1fsha4dkukkco9o",
+      "id": 1
+    },
+    {
+      "hotelName": "A2B",
+      "type": "veg",
+      "genre": "veg",
+      "rating": "4",
+      "food": "Podi dosa",
+      "cost": 200,
+      "resImage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/igxyfqbu82muvgsgusca",
+      "id": 2
+    },
+    {
+      "hotelName": "zaitoon",
+      "type": "veg",
+      "genre": "veg",
+      "rating": "3",
+      "resImage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bkb5aev54lummmjgrpl5",
+      "id": 14
+    },
+    {
+      "hotelName": "zaitoon",
+      "type": "veg",
+      "genre": "veg",
+      "rating": "3",
+      "resImage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bkb5aev54lummmjgrpl5",
+      "id": 15
+    }
+  ],
+  "restaurantdetails": [
+    {
+      "id": 1,
+      "costForTwo": "Rs.800",
+      "openingTime": "opens tomorrow at 9 AM",
+      "location": "egmore",
+      "recommended": "ghee dosa,masala dosa",
+      "restaurantId": 1
+    },
+    {
+      "id": 2,
+      "costForTwo": "Rs.300",
+      "openingTime": "opens tomorrow at 9 AM",
+      "recommended": "ghee dosa,masala dosa",
+      "location": "omr",
+      "restaurantId": 2
+    },
+    {
+      "id": 3,
+      "costForTwo": "Rs.800",
+      "openingTime": "9 AM",
+      "recommended": "ghee dosa,masala dosa",
+      "location": "mylapore",
+      "restaurantId": 3
+    },
+    {
+      "id": 4,
+      "costForTwo": "Rs.800",
+      "openingTime": "9 AM",
+      "recommended": "ghee dosa,masala dosa",
+      "location": "bessy",
+      "restaurantId": 4
+    },
+    {
+      "id": 5,
+      "costForTwo": "Rs.200",
+      "openingTime": "9 AM",
+      "recommended": "ghee dosa,masala dosa",
+      "location": "bessy",
+      "restaurantId": 5
+    },
+    {
+      "id": 6,
+      "costForTwo": "Rs.200",
+      "openingTime": "9 AM",
+      "recommended": "ghee dosa,masala dosa",
+      "location": "bessy",
+      "restaurantId": 6
+    }
+  ],
+  "users": [
+    {
+      "firstName": "moni",
+      "lastName": "kumar",
+      "email": "Ramco@gmail.comn",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 2
+    },
+    {
+      "id": 6,
+      "hotelName": "Vaa Bro",
+      "rating": "4",
+      "genre": "juice,snacks",
+      "type": "JUICES",
+      "food": "pineapple juice",
+      "cost": 200,
+      "resImage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bkb5aev54lummmjgrpl5"
+    },
+    {
+      "firstName": "king",
+      "lastName": "thiya",
+      "email": "ram@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 3
+    },
+    {
+      "firstName": "moni",
+      "lastName": "kumar",
+      "email": "Ramco@gmail.comn",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 4
+    },
+    {
+      "firstName": "moni",
+      "lastName": "kumar",
+      "email": "Ramco@gmail.comn",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 5
+    },
+    {
+      "firstName": "moni",
+      "lastName": "kumar",
+      "email": "smaha@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 6
+    },
+    {
+      "firstName": "mahalakshmi",
+      "lastName": "sivakumar",
+      "email": "santha.govindan@merck.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 7
+    },
+    {
+      "firstName": "mahalakshmi",
+      "lastName": "sivakumar",
+      "email": "maha@merck.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 8
+    },
+    {
+      "firstName": "mahalakshmi",
+      "lastName": "sivakumar",
+      "email": "9578253328@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 9
+    },
+    {
+      "firstName": "mahalakshmi",
+      "lastName": "sivakumar",
+      "email": "mahalakshmi.sak@hcl.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 10
+    },
+    {
+      "firstName": "mahalakshmi",
+      "lastName": "sivakumar",
+      "email": "957825332@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 11
+    },
+    {
+      "firstName": "mahalakshmi",
+      "lastName": "sivakumar",
+      "email": "smahalakshr@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 12
+    },
+    {
+      "firstName": "moni",
+      "lastName": "kumar",
+      "email": "Rmco@gmail.comn",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 13
+    },
+    {
+      "firstName": "moni",
+      "lastName": "kumar",
+      "email": "mco@gmail.comn",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "id": 14
+    },
+    {
+      "firstName": "mahalakshmi",
+      "lastName": "sivakumar",
+      "email": "king@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "role": "admin",
+      "id": 16
+    },
+    {
+      "firstName": "mahalakshmi",
+      "lastName": "sivakumar",
+      "email": "kingthiya@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "role": "admin",
+      "id": 17
+    },
+    {
+      "firstName": "king",
+      "lastName": "mniij",
+      "email": "smahalakshmikumar@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "acceptTerms": true,
+      "role": "admin",
+      "id": 18
+    }
+  ],
+  "userorders": [
+    {
+      "id": 6,
+      "costForTwo": "Rs.200",
+      "openingTime": "9 AM",
+      "recommended": "ghee dosa,masala dosa",
+      "location": "bessy",
+      "userId": 6
+    },
+    {
+      "id": 7,
+      "costForTwo": "Rs.200",
+      "openingTime": "9 AM",
+      "food": [
+        "ooo",
+        "pooo,PPP"
+      ],
+      "location": "bessy",
+      "userId": 2
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 2,
+      "totalPrice": 200,
+      "id": 9
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 3,
+      "totalPrice": 200,
+      "id": 10
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 3,
+      "totalPrice": 200,
+      "id": 11
+    },
+    {
+      "foodItems": [
+        "Pizza",
+        "Podi dosa"
+      ],
+      "userId": 3,
+      "totalPrice": 500,
+      "id": 12
+    },
+    {
+      "foodItems": [
+        null
+      ],
+      "userId": 18,
+      "totalPrice": null,
+      "id": 13
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 14
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 15
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 16
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 17
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 18
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 19
+    },
+    {
+      "foodItems": [
+        "pineapple juice"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 20
+    },
+    {
+      "foodItems": [
+        "Podi dosa",
+        "pineapple juice"
+      ],
+      "userId": 18,
+      "totalPrice": 400,
+      "id": 21
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 22
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 23
+    },
+    {
+      "foodItems": [
+        "Podi dosa"
+      ],
+      "userId": 18,
+      "totalPrice": 200,
+      "id": 24
+    }
+  ],
+  "sagaRestaurantsList": [
+    {
+      "hotelName": "Anjappar",
+      "type": "veg",
+      "genre": "veg",
+      "rating": "4",
+      "food": "Podi dosa",
+      "cost": 200,
+      "resImage": "https://res.cloudinary.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_508,h_320,c_fill/bkb5aev54lummmjgrpl5",
+      "id": 1
+    }
+  ]
+}
